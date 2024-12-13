@@ -1,1 +1,2 @@
-https://github.com/Amir1510/-.git
+
+https://github.com/Amir1510/Individualni-proekt.git
